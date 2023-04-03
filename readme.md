@@ -1,10 +1,10 @@
 ### Informasi Kelompok <br>
 -------------------------------- <br>
 
-- 00000067456 - Angelima Khosina<br>
+- 00000067456 - Angelima Khosina https://github.com/angelimakhosina/UTS-PTI-LEC.git<br>
 - 00000067471 - Christian Yoga Shandy Kurniadi<br>
-- 00000065448 - Ryu Ivan Wijaya<br>
-- 00000065031 - Vianca Vanesia Barhan<br>
+- 00000065448 - Ryu Ivan Wijaya https://github.com/Ryuivan/UTS.git<br>
+- 00000065031 - Vianca Vanesia Barhan https://github.com/Vnesiav/UMNGotcha-UTS-PTI-LEC.git<br>
 - 00000067030 - Walter Adrian Samuel<br><br>
 
 ### Cara bermain<br>
